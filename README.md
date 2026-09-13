@@ -4,7 +4,7 @@ DubtaleBR é um projeto gratuito e não oficial de tradução e dublagem brasile
 
 ## Demo 0.1
 
-Esta é a primeira publicação pública do projeto. Atualmente vai até o final das Ruínas. 
+Esta é a primeira publicação do projeto. Atualmente vai até o final das Ruínas. 
 
 ## Requisitos
 
