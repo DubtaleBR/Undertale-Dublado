@@ -13,7 +13,7 @@ Esta é a primeira versão pública do projeto. O conteúdo atual vai do início
 
 ## Download e instalação
 
-Acesse a seção [Releases](https://github.com/DubtaleBR/Undertale-Dublado/releases/latest) e baixe o arquivo `DubtaleBR_Demo_01.zip`.
+Acesse a seção [Releases](https://github.com/DubtaleBR/Undertale-Dublado/releases/latest) e baixe o arquivo `Undertale_Dublado_PTBR_v0.1.0.zip`.
 
 Depois de extrair o arquivo, siga as instruções presentes no `INSTALAÇÃO.txt`.
 
